@@ -42,6 +42,8 @@ Try advanced models such as XGBoost or Gradient Boosting.
 Deploy the model using Flask or Streamlit.
 Add a dashboard for visualizing churn insights.
 Screenshots of results and test are uploaded in the repository.
+
 Author:
+
 Abdul rehman Tanveer
 Muzamil Hussain 
